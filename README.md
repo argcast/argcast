@@ -5,7 +5,7 @@ I'm Albert, a self-taught developer who first breaks things to figure out how th
 
 
 ### 🚀 Side Projects  
-- **[LLCTaxPA](https://llctaxpa.com)** – A platform for LLC tax preparation and management.  
+- **[LLCTaxPal](https://llctaxpal.com)** – A platform for LLC tax preparation and management.  
 - **[Reposhare](https://reposhare.io)** – A low-fee payment platform for developers to monetize their work.  
 
 ### 📫 Get in Touch  
