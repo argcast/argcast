@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋  
+I'm Albert, a self-taught developer who first breaks things to figure out how they work, then builds my own from scratch with what I've learned.  
+<blockquote style="text-align: right;">Good artists copy, great artists steal. - <strike>Picasso</strike> Albert</blockquote>
 
-<!--
-**argcast/argcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Side Projects  
+- **[LLCTaxPA](https://llctaxpa.com)** – A platform for LLC tax preparation and management.  
+- **[Reposhare](https://reposhare.io)** – A low-fee payment platform for developers to monetize their work.  
+
+### 📫 Get in Touch  
+- Twitter: [@yourhandle](https://twitter.com/arcastrodev)    
+- Website: [yourwebsite.com](https://arcastro.dev)  
