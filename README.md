@@ -9,5 +9,5 @@ I'm Albert, a self-taught developer who first breaks things to figure out how th
 - **[Reposhare](https://reposhare.io)** – A low-fee payment platform for developers to monetize their work.  
 
 ### 📫 Get in Touch  
-- Twitter: [@yourhandle](https://twitter.com/arcastrodev)    
-- Website: [yourwebsite.com](https://arcastro.dev)  
+- Twitter: [@arcastrodev](https://twitter.com/arcastrodev)    
+- Website: [arcastro.dev](https://arcastro.dev)  
